@@ -1,5 +1,4 @@
-<img style="border-radius: 10px;" src="assets/banner.png" style="width: 100%;">
-<br>
+<img style="border-radius: 10px !important;" src="assets/banner.png" style="width: 100%;">
 
 # Hi, I'm Kush 👋🏻
 
