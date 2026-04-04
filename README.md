@@ -1,2 +1,2 @@
 ## Hi there 👋
-![alt text](banner.png)
+<img alt="Awesome GitHub Profile Readme" src="banner.png"> </img>
